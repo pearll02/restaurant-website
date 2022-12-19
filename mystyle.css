@@ -1,0 +1,156 @@
+.button{
+    border-radius: 15px;
+    background-color : #d87269;
+    color: #F3EAEA;
+    border-color:#d87269 ;
+    cursor: pointer;
+   }
+   #first{
+    background-color: #fce6e6
+   }
+   #second{
+    padding-left: 10%;
+    padding-top: 30px;
+   }
+   p{
+    color: rgb(61, 59, 59);
+    font-weight: 700;
+    font-size: 1rem;
+    
+   }
+   #nav{
+    color: ivory;
+    padding-top: 1rem;
+   }
+   h5{
+    font-weight: 600;
+   }
+   .button2{
+    border-radius: 15px;
+    background-color : #d87269;
+    color: #F3EAEA;
+    cursor: pointer; 
+   }
+   button:hover{
+    background-color: rgb(233, 192, 192);
+   }
+   .img2{
+    position: relative;
+    top: -70px;
+   }
+   #why{
+    background-color: beige;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+   }
+   #Joy{
+    padding-top: 2rem;
+    background-color: blanchedalmond;
+    padding-bottom: 3rem;
+   }
+   .shift{
+    padding-left: 5rem;
+   }
+   .shift1{
+    padding-bottom: 6rem;
+    padding-left: 3rem;
+   }
+   .shift0{
+    padding-bottom: 4rem;
+   }
+   .shift2{
+    
+    padding-left: 4rem;
+   }
+   .butnapp , .more{
+    background-color: #d87269;
+    color: #F3EAEA;
+    border-color:#d87269 ;
+    cursor : pointer; 
+    border-radius: 15px;
+   }
+   .logo{
+    padding-left: 9rem;
+   }
+   #third{
+    background-color: lightgrey;
+    padding-bottom: 7rem; 
+    padding-left: 1rem;
+   }
+   .shift3{
+    padding-top: 2rem;
+    padding-bottom:4rem;
+    
+   }
+   .class{
+    padding-right: 2rem;
+   }
+   .dropdown-menu:hover{
+    background-color: grey;
+   }
+   #blogs{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+   }
+   .food1 , .food2 , .food3{
+    padding-top: 2rem;
+    padding-bottom: 3rem; 
+   }
+   .recent{
+    padding-bottom: 3rem;
+   }
+   #back{
+    background-image: url(https://thumbs.dreamstime.com/b/vegetables-spices-ingredient-cookingitalian-food-black-wooden-old-board-rustic-style-76334485.jpg);
+    height: 100%;
+    width: 100%;
+    
+    background-color: beige;
+   }
+   .lot{
+    padding-bottom: 3rem;
+    padding-top: 4rem;
+    
+   }
+   .lot2{
+    padding-bottom: 3rem;
+   }
+   .box{
+    width:50%;
+    height: 50%;
+    background-color: beige;
+    border-radius: 100%;
+    padding-bottom: 3rem;
+   }
+   .button6{
+    padding-left: 4rem;
+    padding-bottom: 3rem;
+   }
+   #last{
+    background-color: #fce6e6;
+    padding-top: 2rem;
+   }
+   .photo1{
+    padding-bottom: 0px;
+    height: 80%;
+   }
+   .photo2{
+    height: 80%; 
+    position: relative;
+    right: 40px;
+   }
+   .photo3{
+    padding-bottom: 1rem;
+    position: relative;
+    right: 80px;
+    top: -30px;
+   }
+   .photo4{
+    position: relative;
+    right: 50px; 
+    top: -30px;
+   }
+   .gallery{
+    background-color: lightgrey;
+    width: 30%;
+   }
+    
